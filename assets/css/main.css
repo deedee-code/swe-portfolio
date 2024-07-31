@@ -2637,11 +2637,11 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style3 .icon.major:before {
-  color: #b74e91;
+  color: #365c85;
 }
 
 .wrapper.style3-alt .icon.major:before {
-  color: #953d75;
+  color: #306daf;
 }
 
 /* Image */
@@ -3316,7 +3316,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-  background-color: #20e424;
+  background-color: #007bff;
 }
 
 .wrapper.style2-alt {
@@ -3324,7 +3324,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-  background-color: #38618c;
+  background-color: #365c85;
 }
 
 .wrapper.style3-alt {
